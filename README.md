@@ -9,7 +9,7 @@
 
 # Review pull requests
 
-_Collaborate and work together on GitHub._
+_Welcome to Github! Collaborate and work together on GitHub._
 
 </header>
 
