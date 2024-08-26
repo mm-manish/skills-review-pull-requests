@@ -22,7 +22,7 @@ _Very warm welcome to Github! Collaborate and work together on GitHub._
 
 ## Step 2: Assign yourself
 
-_Great job opening that pull request! :wave:_
+_Great job opening that pull request and completing it successfully! :wave:_
 
 **What is a _pull request review_?**: Reviewing a pull request is an opportunity to examine another contributor's changes and give them feedback. It's an awesome opportunity to learn more about how the project works and how others solve problems.
 
